@@ -1,0 +1,3 @@
+request
+pillow
+python-dotenv
